@@ -10,7 +10,7 @@ This project was born in 2005, when the original developers re-obtained rights t
 
 The most recent stable version of the game is available from our [SourceForge project](https://sourceforge.net/projects/raceintospace/). It runs natively on Windows, Mac OS X, and Linux; no emulator is required.
 
-![Splash screen](/images/screenshots/307731.jpg)
+![Splash screen](/images/screenshots/splash_screen.png)
 
 # Here to work?
 
