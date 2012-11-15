@@ -265,7 +265,8 @@ img {
 img.travis {
   width: auto;
   padding: 0;
-  margin: 0;
+  margin: 0 0 0 5px;
+  vertical-align: text-top;
   border: 0;
   outline: 0;
 }
