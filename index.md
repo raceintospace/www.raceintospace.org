@@ -2,7 +2,7 @@
 layout: index
 title: Race Into Space
 ---
-*Race Into Space* a free software version of the *Liftoff!* board game by Fritz Bronner, originally developed by Strategic Visions and published by Interplay in 1993 and 1994 as [Buzz Aldrin's Race Into Space](http://en.wikipedia.org/wiki/Buzz_Aldrin%27s_Race_into_Space).
+*Race Into Space* a free software version of the [*Liftoff!*](http://boardgamegeek.com/boardgame/2853/liftoff) board game by Fritz Bronner, originally developed by Strategic Visions and published by Interplay in 1993 and 1994 as [*Buzz Aldrin's Race Into Space*](http://en.wikipedia.org/wiki/Buzz_Aldrin%27s_Race_into_Space).
 
 This project was born in 2005, when the original developers re-obtained rights to the game and released it under the GPL. The project made many releases, each containing more bug fixes and minor features, until releasing 1.0 in 2011.
 
