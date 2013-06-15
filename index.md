@@ -12,6 +12,8 @@ The most recent stable version of the game is available from our [SourceForge pr
 
 ![Splash screen](/images/screenshots/splash_screen.png)
 
+If you've never played before, you would do well to reference [the manual](/images/manual.pdf), since the project dates to a time when games were not particularly self-explanatory. There is no tutorial at this time.
+
 # Here to work?
 
 We're continuing development in [our GitHub repository](https://github.com/raceintospace/raceintospace). <a href="https://travis-ci.org/raceintospace/raceintospace"><img class="travis" src="https://secure.travis-ci.org/raceintospace/raceintospace.png?branch=master" alt="Build status"></a>
